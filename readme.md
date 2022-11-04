@@ -1,6 +1,7 @@
 # Python Web3 Developer Resources
 
 ## Python Web3 Tools
+- [Ethereum Org](https://ethereum.org/en/developers/docs/programming-languages/python/)
 - [Web3 py](https://web3py.readthedocs.io/en/v5/)
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Brownie]()
