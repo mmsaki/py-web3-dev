@@ -4,18 +4,18 @@
 - [Ethereum Org](https://ethereum.org/en/developers/docs/programming-languages/python/)
 - [Web3 py](https://web3py.readthedocs.io/en/v5/)
 - [Vyper](https://github.com/vyperlang/vyper)
-- [Brownie]()
-- [ApeWorx]()
+- [Brownie](https://github.com/eth-brownie/brownie)
+- [ApeWorx](https://github.com/ApeWorX/ape)
 - [Titanoboa](https://github.com/vyperlang/titanoboa)
 - [Py Trie](https://github.com/ethereum/py-trie)
 - [Vyper Fun](https://github.com/vyperfun/vyper.fun)
-- [EVM OpCodes](https://github.com/charles-cooper/evm-opcodes)
-- [Vim for Python]() - [Watch Video](https://www.youtube.com/watch?v=s0Bimr1079A)
+- [Sign in with Ethereum - SIWE](https://github.com/spruceid/siwe-py)
 
 ## EVM 
 - [EVM Symbolic Executions](https://github.com/williamberman/evm-symbolic-execution/blob/master/EVM%20Symbolic%20Execution.ipynb)
 - [Symbolic Execusion for hevm](https://fv.ethereum.org/2020/07/28/symbolic-hevm-release/)
 - [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [EVM OpCodes](https://github.com/charles-cooper/evm-opcodes)
 
 
 ## Educational Resources
@@ -26,7 +26,6 @@
 - [Paradigm](https://ctf.paradigm.xyz/)
 
 ## Cairo
-
 - [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts)
 - [OpenZeppelin Nile](https://github.com/OpenZeppelin/nile)
 - [Cairo Workshop](https://github.com/martriay/cairo-workshop)
